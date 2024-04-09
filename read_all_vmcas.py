@@ -67,7 +67,7 @@ def generate_csv(data, student_id, year, student_info_file, gre_scores_file, col
 
 
 
-folder_path = 'C:/Users/04drm/OneDrive/Documents/Admission Development Comittee/VMCAS_PDF/2027'
+folder_path = ''
 file_paths = iterate_files(folder_path)
 
 student_id = 1
